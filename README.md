@@ -10,24 +10,25 @@
 
 ---
 
-<h2>😊 About Me</h2>
 
-<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa580c9b1.gif"/>
+<div align="center">
+  <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</div>
 
-I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong background in building production-grade Agentic AI systems, AutoML pipelines, and scalable SaaS platforms. I love turning complex AI research into real deployed products that solve real-world problems.
+<div>
+
+- 🎓 &nbsp; Final Year **BS Software Engineering** @ **Air University, Islamabad** (2022–2026)
+- 🔭 &nbsp; Currently building **Kyro** — a SaaS platform for AI search visibility optimization (GEO)
+- 🤖 &nbsp; Passionate about **LLMs, Agentic AI, RAG systems, and AutoML**
+- 🌱 &nbsp; Exploring **LangGraph, LangChain, Multi-Agent Systems, and Vector Databases**
+- 💼 &nbsp; Actively seeking **AI/ML internships & full-time roles** at top tech companies
+- 🚀 &nbsp; I build **production-grade, deployed projects** — not just academic prototypes
+- 💬 &nbsp; Ask me about **Python, LangGraph, FastAPI, RAG, MLOps, or SaaS architecture**
+- ⚡ &nbsp; Fun fact: My FYP is targeting Pakistani SMEs with AI-powered brand visibility tools
+
+</div>
 
 <br/>
-
-- 🎓 &nbsp; Final Year **BS Software Engineering** @ **Air University, Islamabad** *(2022–2026)*
-- 🔭 &nbsp; I'm currently working on **Kyro** — an automated SaaS platform for **AI Brand Search Visibility**
-- 🌱 &nbsp; I'm currently learning **Microsoft Azure Cloud** *(AZ-900 & AI-102)*
-- 👯 &nbsp; I'm looking to collaborate on **Agentic AI, RAG Systems, LLMOps & SaaS projects**
-- 🤔 &nbsp; I'm looking for help with **Azure Cloud deployment & MLOps pipelines at scale**
-- 💬 &nbsp; Ask me about **LangGraph · Agentic RAG · FastAPI · AutoML · LLMOps · SaaS Architecture**
-- 📫 &nbsp; How to reach me: &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanraza111) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hassanraza111@gmail.com)
-- ⚡ &nbsp; Fun fact: **My FYP makes Pakistani businesses visible to ChatGPT & Gemini — before most companies even know GEO exists!**
-
-<br/><br/>
 
 <div align="center">
   <a href="mailto:hassanraza111@gmail.com">
@@ -40,8 +41,6 @@ I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
-<br/>
 
 ---
 
