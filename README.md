@@ -3,26 +3,28 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HASSANRAZA111.HASSANRAZA111&color=6c63ff" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=00BFFF&lines=Hey+There!+👋;I'm+Hassan+Raza!;AI+%2F+ML+Engineer+🤖;AI+Automation+Engineer+⚡;Full-Stack+Developer+🚀;SaaS+Builder+💡;Islamabad%2C+Pakistan+🇵🇰" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=00BFFF&lines=Hey+There!+👋;I'm+Hassan+Raza!;AI+%2F+ML+Engineer+🤖;AI+Automation+Engineer+⚡;Full-Stack+Developer+🚀" />
 </h1>
 
 <br/>
 
----
 
-<p align="center">A passionate software developer from Pakistan 🇵🇰</p>
+<h3 align="center"> A passionate software developer from Pakistan 🇵🇰 </h3>
 
-<br/>
 
 <div align="center">
+  <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</div>
 
-🔭 &nbsp; Currently working on **Kyro** — a SaaS platform for AI search visibility optimization
+<div>
 
-🌱 &nbsp; I'm currently learning **Docker, Supabase, AWS**
 
-💬 &nbsp; Ask me about **Python, LangChain, LangGraph, FastAPI, RAG, MLOps**
-
-⚡ &nbsp; Fun fact: I love turning complex AI research into real deployed products that solve real-world problems
+<br/><br/>
+I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong background in building production-grade Agentic AI systems, AutoML pipelines, and scalable SaaS platforms.
+- 🔭 &nbsp; Currently working on **Kyro** — a SaaS platform for AI search visibility optimization
+- 🌱 &nbsp; I'm currently learning Azure Cloud.
+- 💬 &nbsp; Ask me about **Python, LangChain, LangGraph, FastAPI, RAG, MLOps**
+- ⚡ &nbsp; Fun fact: I love turning complex AI research into real deployed products that solve real-world problems
 
 </div>
 
@@ -39,9 +41,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+<br/>
 
 ---
-
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -100,6 +102,7 @@
 </div>
 
 <br/>
+
 
 
 
