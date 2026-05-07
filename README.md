@@ -27,7 +27,7 @@ I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong 
 - ⚡ &nbsp; I get more excited turning your idea into a live product than sleeping.
 
 </div>
-
+<br/>
 <br/>
 
 <div align="center">
