@@ -1,30 +1,28 @@
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:1a1a2e&height=220&section=header&text=Hassan%20Raza&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=🤖%20AI%2FML%20Engineer%20%7C%20⚡%20AI%20Automation%20Engineer%20%7C%20🚀%20Full-Stack%20Developer%20%7C%20💡%20SaaS%20Builder&descSize=15&descAlignY=60&descColor=a8b4ff" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HASSANRAZA111.HASSANRAZA111&color=6c63ff" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=00BFFF&lines=Hey+There!+👋;I'm+Hassan+Raza!;AI+%2F+ML+Engineer+🤖;AI+Automation+Engineer+⚡;Full-Stack+Developer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=00BFFF&lines=Hey+There!+👋;I'm+Hassan+Raza!;AI+%2F+ML+Engineer+🤖;AI+Automation+Engineer+⚡;Full-Stack+Developer+🚀;SaaS+Builder+💡;Islamabad%2C+Pakistan+🇵🇰" />
 </h1>
 
 <br/>
 
+---
 
-<h3 align="center"> A passionate software developer from Pakistan 🇵🇰 </h3>
+<p align="center">A passionate software developer from Pakistan 🇵🇰</p>
 
+<br/>
 
 <div align="center">
-  <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-</div>
 
-<div>
+🔭 &nbsp; Currently working on **Kyro** — a SaaS platform for AI search visibility optimization
 
+🌱 &nbsp; I'm currently learning **Docker, Supabase, AWS**
 
-<br/><br/>
-I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong background in building production-grade Agentic AI systems, AutoML pipelines, and scalable SaaS platforms.
-- 🔭 &nbsp; Currently working on **Kyro** — a SaaS platform for AI search visibility optimization
-- 🌱 &nbsp; I'm currently learning Azure Cloud.
-- 💬 &nbsp; Ask me about **Python, LangChain, LangGraph, FastAPI, RAG, MLOps**
-- ⚡ &nbsp; Fun fact: I love turning complex AI research into real deployed products that solve real-world problems
+💬 &nbsp; Ask me about **Python, LangChain, LangGraph, FastAPI, RAG, MLOps**
+
+⚡ &nbsp; Fun fact: I love turning complex AI research into real deployed products that solve real-world problems
 
 </div>
 
@@ -41,9 +39,9 @@ I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-<br/>
 
 ---
+
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -103,6 +101,13 @@ I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong 
 
 <br/>
 
+---
 
+<div align="center">
+  <h3>💡 A Quote I Live By</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
+<br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:24243e,70:302b63,100:0f0c29&height=130&section=footer" />
