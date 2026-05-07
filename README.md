@@ -17,14 +17,10 @@
 
 <div>
 
-- 🎓 &nbsp; Final Year **BS Software Engineering** @ **Air University, Islamabad** (2022–2026)
-- 🔭 &nbsp; Currently building **Kyro** — a SaaS platform for AI search visibility optimization (GEO)
-- 🤖 &nbsp; Passionate about **LLMs, Agentic AI, RAG systems, and AutoML**
-- 🌱 &nbsp; Exploring **LangGraph, LangChain, Multi-Agent Systems, and Vector Databases**
-- 💼 &nbsp; Actively seeking **AI/ML internships & full-time roles** at top tech companies
-- 🚀 &nbsp; I build **production-grade, deployed projects** — not just academic prototypes
-- 💬 &nbsp; Ask me about **Python, LangGraph, FastAPI, RAG, MLOps, or SaaS architecture**
-- ⚡ &nbsp; Fun fact: My FYP is targeting Pakistani SMEs with AI-powered brand visibility tools
+- 🔭 &nbsp; Currently on **Kyro** — a SaaS platform for AI search visibility optimization 
+- 🌱 &nbsp; I’m currently learning Docker, Supabase, AWS
+- 💬 &nbsp; Ask me about **Python, LangChan, LangGraph, FastAPI, RAG, MLOps**
+- ⚡ &nbsp; How to reach me give links here according
 
 </div>
 
