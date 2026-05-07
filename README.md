@@ -3,13 +3,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HASSANRAZA111.HASSANRAZA111&color=6c63ff" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=6c63ff&lines=Hey+There!+👋;I'm+Hassan+Raza!;AI+%2F+ML+Engineer+🤖;AI+Automation+Engineer+⚡;Full-Stack+Developer+🚀;SaaS+Builder+💡;Islamabad%2C+Pakistan+🇵🇰" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=00BFFF&lines=Hey+There!+👋;I'm+Hassan+Raza!;AI+%2F+ML+Engineer+🤖;AI+Automation+Engineer+⚡;Full-Stack+Developer+🚀;SaaS+Builder+💡;Islamabad%2C+Pakistan+🇵🇰" />
 </h1>
 
 <br/>
 
 ---
 
+<p align="center">A passionate software developer from Pakistan 🇵🇰</p>
+
+<br/>
 
 <div align="center">
   <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
@@ -17,10 +20,15 @@
 
 <div>
 
-- 🔭 &nbsp; Currently on **Kyro** — a SaaS platform for AI search visibility optimization 
-- 🌱 &nbsp; I’m currently learning Docker, Supabase, AWS
-- 💬 &nbsp; Ask me about **Python, LangChan, LangGraph, FastAPI, RAG, MLOps**
-- ⚡ &nbsp; How to reach me give links here according
+I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong background in building production-grade Agentic AI systems, AutoML pipelines, and scalable SaaS platforms. I love turning complex AI research into real deployed products that solve real-world problems.
+
+- 🔭 &nbsp; Currently working on **Kyro** — a SaaS platform for AI search visibility optimization
+- 🌱 &nbsp; I'm currently learning Docker, Supabase, AWS
+- 💬 &nbsp; Ask me about **Python, LangChain, LangGraph, FastAPI, RAG, MLOps**
+- ⚡ &nbsp; How to reach me:
+  &nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=red)](mailto:hassanraza111@gmail.com)
+  &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanraza111)
+  &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/HASSANRAZA111)
 
 </div>
 
@@ -43,11 +51,11 @@
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,react,nextjs,typescript,javascript,tailwind,html" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=redis,docker,azure,git,github,vercel,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=css,postgresql,mongodb,redis,docker,azure,git,github,vercel,linux,vscode,postman" />
 </div>
 
 <br/>
