@@ -21,10 +21,10 @@
 
 <br/><br/>
 I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong background in building production-grade Agentic AI systems, AutoML pipelines, and scalable SaaS platforms.
-- 🔭 &nbsp; Currently working on **Kyro** — a SaaS platform for AI search visibility optimization
+- 🔭 &nbsp; Currently working on **Agentic RAG Systems**.
 - 🌱 &nbsp; I'm currently learning Azure Cloud.
 - 💬 &nbsp; Ask me about **Python, LangChain, LangGraph, FastAPI, RAG, MLOps**
-- ⚡ &nbsp; Fun fact: I love turning complex AI research into real deployed products that solve real-world problems
+- ⚡ &nbsp; I get more excited turning your idea into a live product than sleeping.
 
 </div>
 
