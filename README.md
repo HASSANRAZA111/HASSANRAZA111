@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:1a1a2e&height=220&section=header&text=Hassan%20Raza&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=🤖%20AI%2FML%20Engineer%20%7C%20⚡%20AI%20Automation%20Engineer%20%7C%20🚀%20Full-Stack%20Developer%20%7C%20💡%20SaaS%20Builder&descSize=15&descAlignY=60&descColor=a8b4ff" />
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HASSANRAZA111.HASSANRAZA111&color=6c63ff" />
 
@@ -101,13 +101,5 @@
 
 <br/>
 
----
 
-<div align="center">
-  <h3>💡 A Quote I Live By</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:24243e,70:302b63,100:0f0c29&height=130&section=footer" />
