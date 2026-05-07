@@ -31,7 +31,7 @@ I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong 
 <br/>
 
 <div align="center">
-  <a href="mailto:hassanraza111@gmail.com">
+  <a href="mailto:hrcreation600@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/hassanraza111" target="_blank">
