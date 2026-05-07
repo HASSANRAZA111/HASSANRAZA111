@@ -1,33 +1,33 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:1a1a2e&height=220&section=header&text=Hassan%20Raza&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=🤖%20AI%2FML%20Engineer%20%7C%20⚡%20AI%20Automation%20Engineer%20%7C%20🚀%20Full-Stack%20Developer%20%7C%20💡%20SaaS%20Builder&descSize=15&descAlignY=60&descColor=a8b4ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,60:24243e,100:1a1a2e&height=220&section=header&text=Hassan%20Raza&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=🤖%20AI%2FML%20Engineer%20%7C%20⚡%20AI%20Automation%20Engineer%20%7C%20🚀%20Full-Stack%20Developer&descSize=16&descAlignY=62&descColor=a8b4ff" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HASSANRAZA111.HASSANRAZA111&color=6c63ff" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=6c63ff&lines=Hey+There!+👋;I'm+Hassan+Raza!;AI+%2F+ML+Engineer+🤖;AI+Automation+Engineer+⚡;Full-Stack+Developer+🚀;SaaS+Builder+💡;Islamabad%2C+Pakistan+🇵🇰" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=38bdf8&lines=Hey+There!+👋;I'm+Hassan+Raza!;AI+%2F+ML+Engineer+🤖;AI+Automation+Engineer+⚡;Full-Stack+Developer+🚀;Islamabad%2C+Pakistan+🇵🇰" />
 </h1>
 
 <br/>
 
 ---
 
-<h2>😊 About Me</h2>
+## 😊 About Me
 
-<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa580c9b1.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa580c9b1.gif"/>
 
 I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong background in building production-grade Agentic AI systems, AutoML pipelines, and scalable SaaS platforms. I love turning complex AI research into real deployed products that solve real-world problems.
 
 <br/>
 
 - 🎓 &nbsp; Final Year **BS Software Engineering** @ **Air University, Islamabad** *(2022–2026)*
-- 🔭 &nbsp; I'm currently working on **Kyro** — an automated SaaS platform for **AI Brand Search Visibility**
+- 🔭 &nbsp; I'm currently working on **Kyro** — an automated SaaS for **AI Brand Search Visibility**
 - 🌱 &nbsp; I'm currently learning **Microsoft Azure Cloud** *(AZ-900 & AI-102)*
-- 👯 &nbsp; I'm looking to collaborate on **Agentic AI, RAG Systems, LLMOps & SaaS projects**
-- 🤔 &nbsp; I'm looking for help with **Azure Cloud deployment & MLOps pipelines at scale**
-- 💬 &nbsp; Ask me about **LangGraph · Agentic RAG · FastAPI · AutoML · LLMOps · SaaS Architecture**
-- 📫 &nbsp; How to reach me: &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanraza111) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hassanraza111@gmail.com)
+- 👯 &nbsp; I'm looking to collaborate on **Agentic AI, RAG Systems & LLMOps projects**
+- 🤔 &nbsp; I'm looking for help with **Azure Cloud deployment & MLOps at scale**
+- 💬 &nbsp; Ask me about **LangGraph · Agentic RAG · FastAPI · AutoML · SaaS Architecture**
+- 📫 &nbsp; How to reach me: &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanraza111) &nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hassanraza111@gmail.com)
 - ⚡ &nbsp; Fun fact: **My FYP makes Pakistani businesses visible to ChatGPT & Gemini — before most companies even know GEO exists!**
 
-<br/><br/>
+<br/><br/><br/>
 
 <div align="center">
   <a href="mailto:hassanraza111@gmail.com">
@@ -47,12 +47,13 @@ I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong 
 
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,express" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,postgresql,mongodb" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=redis,docker,azure,git,github,vercel,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,nodejs,express,react&perline=9" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript,tailwind,postgresql,mongodb,redis,docker,azure&perline=9" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,postman,html,css,opencv&perline=9" />
 </div>
 
 <br/>
@@ -90,8 +91,8 @@ I am a passionate **AI/ML Engineer** and **Full-Stack Developer** with a strong 
 <br/>
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=HASSANRAZA111&count_private=true&theme=dark&border_radius=10&fire=6c63ff&ring=6c63ff&currStreakLabel=6c63ff&background=0D1117&border=30363D&stroke=6c63ff&sideLabels=a8b4ff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=HASSANRAZA111&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10&icon_color=6c63ff&title_color=a8b4ff&bg_color=0D1117&border_color=30363D&text_color=c9d1d9" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=HASSANRAZA111&count_private=true&theme=dark&border_radius=10&fire=6c63ff&ring=6c63ff&currStreakLabel=38bdf8&background=0D1117&border=30363D&stroke=6c63ff&sideLabels=a8b4ff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=HASSANRAZA111&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10&icon_color=38bdf8&title_color=a8b4ff&bg_color=0D1117&border_color=30363D&text_color=c9d1d9" alt="readme stats" />
   <br/><br/>
   <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HASSANRAZA111&langs_count=8&layout=compact&theme=dark&border_radius=10&title_color=a8b4ff&bg_color=0D1117&border_color=30363D&text_color=c9d1d9&hide=html,css" alt="top langs" />
 </div>
